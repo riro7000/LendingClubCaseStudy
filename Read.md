@@ -25,20 +25,13 @@ The data provided below contains information about loan applicants in the past a
 ## Conclusions
 Default earning Driving Features:
 
-1. Maximum Loan (> $ 30000)
-
-2. High interest rate (> 20%)
-
-3. Purpose of Loans (Small Business, Renewable Energy, Education)
-
-4. High Revolve usage rate (> 75%)
-
-5. Mortgage Loans (F, G)
-
-6. Low Annual Income (<$ 20000)
-
-7. High Income Debt Rate (20% - 25%)
-
+1. Maximum Loan 
+2. High interest rate 
+3. Purpose of Loans 
+4. High Revolve usage rate 
+5. Mortgage Loans 
+6. Low Annual Income 
+7. High Income Debt Rate 
 
 
 ## Technology used
